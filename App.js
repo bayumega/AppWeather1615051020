@@ -6,7 +6,7 @@ import Layar from './src/comp/Cuaca';
 export default class App extends React.Component {
   render() {
     return (
-      <Cuaca/>
+      <Layar/>
     );
   }
 }
